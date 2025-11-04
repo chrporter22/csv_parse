@@ -13,9 +13,9 @@
 ![pip](https://img.shields.io/badge/pip-Installer-blue?logo=pypi&logoColor=white)
 ![venv](https://img.shields.io/badge/VirtualEnv-.venv-lightblue)
 
-Setup script to configures a complete Python development environment and run a csv parse script for malformed csv data with nested json. Execute the 'top_components.py' file to run PCA pipeline to extract top features leading to variance. 
+The setup script configures a complete Python development environment to run a csv parsing tool for malformed csv data with nested json. Execute the 'top_components.py' file to run a PCA pipeline to extract top features leading to variance. PCA summary data saved in json format. 
 
-**The script will:**
+**The setup script will:**
 - Install Homebrew (if missing)
 - Install Python 3 and pip
 - Create a .venv virtual environment
