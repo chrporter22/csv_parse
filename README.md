@@ -24,6 +24,8 @@ The setup script configures a complete Python development environment to run a c
 
 **Edit main.py and top_component.py file to update source csv file path**
 
+[PCA Pipeline Reference](https://personal.utdallas.edu/~herve/Abdi-EVD2007-pretty.pdf)
+
 ---
 
 ## Setup Instructions
