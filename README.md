@@ -15,6 +15,10 @@
 
 Complete Python development environment to run a CSV parsing tool for malformed csv data with nested json. Execute the 'top_components.py' file to run a PCA pipeline to extract top features leading to top variance. PCA summary data saved in json format. 
 
+**Additional System Requirements (not included in setup script):**
+- Vim, Nano, neovim, VS Code (or text editor/IDE of your choice)
+- git, curl 
+
 **The setup script will:**
 - Install Homebrew (if needed) 
 - Install Python 3 and pip
